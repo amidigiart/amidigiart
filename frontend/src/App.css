@@ -1,6 +1,6 @@
 /* Reset and base styles */
 *, *::before, *::after {
-  cursor: none; /* Hide default cursor for custom cursor */
+  /* cursor: none; */ /* Hide default cursor for custom cursor - disabled for better usability */
 }
 
 body {
