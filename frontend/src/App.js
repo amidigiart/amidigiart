@@ -406,7 +406,7 @@ const AboutSection = () => {
               Digital Dreamland was founded with a passion for bringing fantasy to life through digital art. Our team of talented artists combines technical expertise with boundless creativity to craft stunning visual experiences.
             </p>
             <p className="mb-8">
-              Each creation is a journey into imagination, meticulously crafted to transport viewers to extraordinary realms. We believe in the power of digital art to inspire, evoke emotion, and create connections.
+              Each creation is a journey into imagination, meticulously crafted to transport viewers to extraordinary realms. We believe in the power of digital art to inspire, evoke emotion, and create connections. Our <span className="font-bold text-accent">amidigiart™</span> brand represents the pinnacle of innovative digital artistry.
             </p>
             
             <div className="stats-grid grid grid-cols-2 md:grid-cols-3 gap-4 mb-8">
