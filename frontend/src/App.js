@@ -68,7 +68,7 @@ const Header = () => {
           <h1 className="text-2xl font-bold font-display bg-clip-text text-transparent bg-gradient-to-r from-primary to-dreamland-purple">
             Digital<span className="text-accent">Dreamland</span>
           </h1>
-          <span className="trademark text-xs font-light">amidigiart™</span>
+          <span className="trademark text-xs font-bold text-accent-light">amidigiart™</span>
         </motion.div>
 
         {/* Desktop Navigation */}
