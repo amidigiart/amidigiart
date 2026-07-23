@@ -9,7 +9,7 @@ Building resonance-based AI engines, the first Agent-to-Agent trust layer, and a
 
 ## BRIDGRAI A2A Platform
 
-**8 agents. 1 trust layer. Zero confabulation tolerance.**
+**9 agents. 5 layers. 1 trust layer. Zero confabulation tolerance.**
 
 The first system that certifies MEANING and INTENTION of inter-agent messages — not just format or safety. Built on Google's A2A protocol (JSON-RPC 2.0).
 
@@ -20,6 +20,7 @@ The first system that certifies MEANING and INTENTION of inter-agent messages �
 | [**Concordance**](https://github.com/amidigiart/bridgrai-a2a) | Multi-agent truth verification — P(confab) = p^N |
 | [**Calibration**](https://github.com/amidigiart/bridgrai-a2a) | Adler/Kuramoto system-level phase synchronization |
 | [**Heritage**](https://github.com/amidigiart/bridgrai-a2a) | Transgenerational digital custodian, Mars 2% compatible |
+| [**Maestru**](https://github.com/amidigiart/bridgrai-a2a) | Cognitive orchestrator — auto-detects needs, builds pipeline, unifies results |
 | + UKBE, CASP, HASN | Core engine wrappers with full A2A protocol |
 
 Three independent AI validations: Gemini (P=10⁻²⁸), Claude (attestation), ChatGPT (ACR formalization).
@@ -68,7 +69,7 @@ One architectural pattern. One shared engine. 20 products across 20 domains.
 
 ## IP Protection
 
-- **97 entries** on Tezos blockchain — [registry](https://github.com/amidigiart/tezos-ip-registry)
+- **98 entries** on Tezos blockchain — [registry](https://github.com/amidigiart/tezos-ip-registry)
 - Contract: [`KT1Pe2GA11bMpaTL5VH4TY6aZ9xePZ6f5vWX`](https://tzkt.io/KT1Pe2GA11bMpaTL5VH4TY6aZ9xePZ6f5vWX)
 - Master Hash SHA-256 timestamped, covering all engines, products, agents, and research
 - Portfolio: [amiecosystems.org](https://amiecosystems.org)
