@@ -69,7 +69,7 @@ One architectural pattern. One shared engine. 20 products across 20 domains.
 
 ## IP Protection
 
-- **100 entries** on Tezos blockchain — [registry](https://github.com/amidigiart/tezos-ip-registry)
+- **101 entries** on Tezos blockchain — [registry](https://github.com/amidigiart/tezos-ip-registry)
 - Contract: [`KT1Pe2GA11bMpaTL5VH4TY6aZ9xePZ6f5vWX`](https://tzkt.io/KT1Pe2GA11bMpaTL5VH4TY6aZ9xePZ6f5vWX)
 - Master Hash SHA-256 timestamped, covering all engines, products, agents, and research
 - Portfolio: [amiecosystems.org](https://amiecosystems.org)
