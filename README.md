@@ -77,7 +77,7 @@ One architectural pattern. One shared engine. 20 products across 20 domains.
 
 ## IP Protection
 
-- **125 IP assets** timestamped on Tezos mainnet — hash chain v1.1 → v1.9
+- **132 IP assets** timestamped on Tezos mainnet — hash chain v1.1 → v2.2
 - Wallet: [`tz1bmw3igCLN8N6CqgLBzJ9dyRb79E2Tdu5Q`](https://tzkt.io/tz1bmw3igCLN8N6CqgLBzJ9dyRb79E2Tdu5Q/operations)
 - Master Hash v1.9: `ee3af3e528ebd19b75cb3ff4d6fc8571bb92a113b4947609a5fdddb56f344bda`
 - 717+ tests across ecosystem
