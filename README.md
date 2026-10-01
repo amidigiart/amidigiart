@@ -36,9 +36,9 @@ Phases: ANCHOR/UKBE/SCALE/VALVE → COOPER/DSEI/TVE → AGIK/STILL → MESH/HERI
 | Engine | What it does | Tests | License |
 |--------|-------------|-------|---------|
 | [**UKBE Core**](https://github.com/amidigiart/ukbe-core) | REAI resonance engine — Kuramoto + Kalman + adaptive coupling with Adler-derived calibration | 102/102 | Proprietary |
-| [**TVE Core**](https://github.com/amidigiart/tve-core) | Truth Vector Engine — 6-pillar manipulation detection (emotional, logical, authority, urgency, social, framing) | — | AGPL-3.0 |
-| [**Amidor Engine**](https://github.com/amidigiart/amidor-engine) | Dual-model anti-confabulation — two models must concur or it says so instead of inventing | — | AGPL-3.0 |
-| [**KinderAGI Core**](https://github.com/amidigiart/kinderagi-core) | Child-safe AI companion — crisis detection, hard attention budgets, Ed25519-signed parent journal | — | AGPL-3.0 |
+| [**TVE Core**](https://github.com/amidigiart/tve-core) | Truth Vector Engine — 6-pillar manipulation detection (emotional, logical, authority, urgency, social, framing) | — | Proprietary |
+| [**Amidor Engine**](https://github.com/amidigiart/amidor-engine) | Dual-model anti-confabulation — two models must concur or it says so instead of inventing | — | Proprietary |
+| [**KinderAGI Core**](https://github.com/amidigiart/kinderagi-core) | Child-safe AI companion — crisis detection, hard attention budgets, Ed25519-signed parent journal | — | Proprietary |
 | [**TVE-UKBE Fusion**](https://github.com/amidigiart/tve-ukbe-fusion) | Unified resonance + truth vector pipeline | — | Proprietary |
 
 ## Research
