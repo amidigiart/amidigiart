@@ -35,16 +35,16 @@ Phases: ANCHOR/UKBE/SCALE/VALVE → COOPER/DSEI/TVE → AGIK/STILL → MESH/HERI
 
 | Engine | What it does | Tests | License |
 |--------|-------------|-------|---------|
-| [**UKBE Core**](https://github.com/amidigiart/ukbe-core) | REAI resonance engine — Kuramoto + Kalman + adaptive coupling with Adler-derived calibration | 102/102 | Proprietary |
-| [**TVE Core**](https://github.com/amidigiart/tve-core) | Truth Vector Engine — 6-pillar manipulation detection (emotional, logical, authority, urgency, social, framing) | — | Proprietary |
-| [**Amidor Engine**](https://github.com/amidigiart/amidor-engine) | Dual-model anti-confabulation — two models must concur or it says so instead of inventing | — | Proprietary |
-| [**KinderAGI Core**](https://github.com/amidigiart/kinderagi-core) | Child-safe AI companion — crisis detection, hard attention budgets, Ed25519-signed parent journal | — | Proprietary |
-| [**TVE-UKBE Fusion**](https://github.com/amidigiart/tve-ukbe-fusion) | Unified resonance + truth vector pipeline | — | Proprietary |
+| **UKBE Core** | REAI resonance engine — Kuramoto + Kalman + adaptive coupling with Adler-derived calibration | 102/102 | Proprietary |
+| **TVE Core** | Truth Vector Engine — 6-pillar manipulation detection (emotional, logical, authority, urgency, social, framing) | — | Proprietary |
+| **Amidor Engine** | Dual-model anti-confabulation — two models must concur or it says so instead of inventing | — | Proprietary |
+| **KinderAGI Core** | Child-safe AI companion — crisis detection, hard attention budgets, Ed25519-signed parent journal | — | Proprietary |
+| **TVE-UKBE Fusion** | Unified resonance + truth vector pipeline | — | Proprietary |
 
 ## Research
 
 - **P6 Adler Ghost Peak** — Ghost sensitivity peaks in adaptive phase-coupled systems: a disguised Adler/SNIC bifurcation
-  - [GitHub](https://github.com/amidigiart/p6-adler-ghost-peak) · [DOI: 10.5281/zenodo.15556498](https://doi.org/10.5281/zenodo.15556498)
+  - [GitHub](https://github.com/amidigiart/p6-adler-ghost-peak) · [DOI: 10.5281/zenodo.21269201](https://doi.org/10.5281/zenodo.21269201)
 - **Resonance Engineering** — Foundational document: axiom S(M)=R, RSI+beta_min, ScaleEngine benchmark, DSEI governance
   - [Live document](https://amidigiart.github.io/bridgrai-demo/resonance-engineering.html)
 
