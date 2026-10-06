@@ -25,9 +25,9 @@ The first system that certifies MEANING and INTENTION of inter-agent messages �
 
 Three independent AI validations: Gemini, Claude, ChatGPT.
 
-## AGI Backbone v1.0
+## BRIDGRAI Governance Backbone v1.0
 
-12-module pipeline across 4 phases — from human intent anchoring to blockchain-sealed IP manifests. 55/55 tests. Co-developed with Claude Opus 4.6 and Qwen 3.8 MAX.
+Verifiable governance layer for AI decisions: a 12-module pipeline across 4 phases — from human intent anchoring to blockchain-sealed records. 132 tests. Co-developed with Claude Opus 4.6 and Qwen 3.8 MAX.
 
 Phases: ANCHOR/UKBE/SCALE/VALVE → COOPER/DSEI/TVE → AGIK/STILL → MESH/HERITAGE/MANIFEST
 
@@ -86,7 +86,7 @@ One architectural pattern. One shared engine. 20 products across 20 domains.
 
 ## The Why
 
-Everything funds [**AGI Kindergarten**](https://agikindergarten.com) — the real mission.
+Everything funds [**AGI Kindergarten**](https://agikindergarten.com) — the real mission: AI safety for children, preparing them for a world with advanced AI. We do not build AGI.
 AI safety for children, built by a father for his son Patrick.
 
 S(M) = R — Meaning precedes Syntax.
